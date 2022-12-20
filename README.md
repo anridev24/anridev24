@@ -5,7 +5,7 @@ I merge a passion for usability and user experience with technical knowledge to 
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 March 2020 - To: 17 December 2022
+From: 28 March 2020 - To: 18 December 2022
 
 Total Time: 2,061 hrs 39 mins
 
