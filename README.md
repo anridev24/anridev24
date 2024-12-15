@@ -6,13 +6,13 @@ I merge a passion for usability and user experience with technical knowledge to 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2020 - To: 12 December 2024
+From: 28 March 2020 - To: 13 December 2024
 
-Total Time: 3,035 hrs 26 mins
+Total Time: 3,036 hrs 25 mins
 
-TypeScript        1,402 hrs 52 mins>>>>>>>>>>>>-------------   46.22 %
-JavaScript        565 hrs 28 mins >>>>>--------------------   18.63 %
-Python            313 hrs 48 mins >>>----------------------   10.34 %
+TypeScript        1,403 hrs 50 mins>>>>>>>>>>>>-------------   46.23 %
+JavaScript        565 hrs 28 mins >>>>>--------------------   18.62 %
+Python            313 hrs 48 mins >>>----------------------   10.33 %
 Vue.js            150 hrs 20 mins >------------------------   04.95 %
 JSON              148 hrs 33 mins >------------------------   04.89 %
 ```
