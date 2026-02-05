@@ -50,7 +50,7 @@ const andronik = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2020 - To: 02 February 2026
+From: 28 March 2020 - To: 03 February 2026
 
 Total Time: 3,695 hrs 21 mins
 
