@@ -50,13 +50,13 @@ const andronik = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2020 - To: 05 March 2026
+From: 28 March 2020 - To: 06 March 2026
 
-Total Time: 3,712 hrs 40 mins
+Total Time: 3,713 hrs 20 mins
 
-TypeScript          1,916 hrs 1 min       >>>>>>>>>>>>>------------   51.61 %
+TypeScript          1,916 hrs 8 mins      >>>>>>>>>>>>>------------   51.60 %
 JavaScript          573 hrs 58 mins       >>>>---------------------   15.46 %
-Python              313 hrs 56 mins       >>-----------------------   08.46 %
+Python              313 hrs 56 mins       >>-----------------------   08.45 %
 JSON                177 hrs 32 mins       >------------------------   04.78 %
 Vue.js              150 hrs 20 mins       >------------------------   04.05 %
 ```
